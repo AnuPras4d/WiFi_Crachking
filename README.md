@@ -5,6 +5,8 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
 
 - **WireLess Adapter**:
     - TP-Link TL-WN722N V2/V3
+      You can Purchase The WireLess Adapter From 👇
+      
       ```bash
       https://shorturl.at/Ed6sm
       
