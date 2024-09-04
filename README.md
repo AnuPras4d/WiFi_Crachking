@@ -5,5 +5,8 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
 
 - **WireLess Adapter**:
     - TP-Link TL-WN722N V2/V3
+      ```bash
+      https://shorturl.at/Ed6sm
+      
 - Specified Kali File
 - 
