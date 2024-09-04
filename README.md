@@ -10,5 +10,11 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
       ```bash
       https://shorturl.at/Ed6sm
       
+- VM Ware
 - Specified Kali File
+
+    ```bash
+    https://shorturl.at/txAVD
+     
+- Customized Adapter Driver
 - 
