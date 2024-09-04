@@ -4,7 +4,7 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
 ## Requirements
 
 - **WireLess Adapter**:
-    - TP-Link TL-WN722N V2/V3
+    - TP-Link TL-WN722N V2/V3 -
       You can Purchase The WireLess Adapter From 👇
       
       ```bash
