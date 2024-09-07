@@ -22,7 +22,44 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
   
 ## Lets Change The Device Driver
 
-```bash
-sudo apt update
+    ```bash
+    sudo apt update
+    sudo apt upgrade
+    sudo apt install bc
+    sudo apt-get install build-essential
+    sudo apt-get install libelf-dev
+Try Either Of These Commands
+    ```bash
+    
+    sudo apt-get install linux-headers-`uname -r
+    sudo apt-get install linux-headers-5.10.0-kali6-amd64
+Continue The Other Commands
+    ```bash
+
+    sudo apt install dkms
+    cd rtl8188eu
+    sudo -1
+    echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf"
+    exit
+    sudo reboot
+    sudp apt update
+    cd rtl8188eu
+    sudo make
+    sudo make install
+    sudo modprobe 8188eu
+Lets Check The Adapter Enabled The Monitor Mode
+    ```bash
+
+    airmon-ng start wlan0
+
+Use Tools Like Wifite TO Crack Wifi
+    ```bash
+
+    wifite --kill
+
+### Thank You 
+### Credits
+    @AnuPras4d
+    @a6h1n0v
 
 
