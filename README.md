@@ -16,13 +16,9 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
     ```bash
     https://shorturl.at/txAVD
 - Customized Adapter Driver
-
-  ```bash
-  https://shorturl.at/bdTv9
-  
+    ```bash
+      https://shorturl.at/bdTv9
 ## Lets Change The Device Driver
-     ```bash
-    
     sudo apt update
     sudo apt upgrade
     sudo apt install bc
