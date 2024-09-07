@@ -21,8 +21,8 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
   https://shorturl.at/bdTv9
   
 ## Lets Change The Device Driver
-
-    ```bash
+     ```bash
+    
     sudo apt update
     sudo apt upgrade
     sudo apt install bc
