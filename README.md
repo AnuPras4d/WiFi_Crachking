@@ -15,6 +15,5 @@ This repository offers educational resources and tools for exploring Wi-Fi secur
 
     ```bash
     https://shorturl.at/txAVD
-     
 - Customized Adapter Driver
 - 
